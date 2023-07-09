@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Sinem Sarak. I am studying Computer Engineering in Yildiz Techical University.
-- 🌱 I’m currently trying to improve myself at HTML - CSS and JavaScript.
 - 📫 Here is my linkedin account for you to reach me: https://www.linkedin.com/in/sinem-sarak-4a9b1a258/
 
 <!---
